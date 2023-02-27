@@ -13,7 +13,7 @@ def main():
             after_text += i
     print()
     print(after_text)
-    print("end0")
+    print("end")
     
 if __name__ == "__main__":
     main()
